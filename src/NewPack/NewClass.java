@@ -6,6 +6,7 @@ public class NewClass {
         int a = 4;
         a=+10 ;
         System.out.println(a);
+        //comment
     }
 
 
